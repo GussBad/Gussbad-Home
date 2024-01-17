@@ -35,7 +35,7 @@
 
 ## **Recent projects:**
 
-<a href="https://github.com/GussBad/Banking-App-Kotlin/compare/master?expand=1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=central-nickgabe&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/GussBad/Banking-App-Kotlin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GussBad&repo=Banking-App-Kotlin&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/Nick-Gabe/better-format"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=better-format&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/Nick-Gabe/FAPI-whack-a-potatoe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=FAPI-whack-a-potatoe&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/Nick-Gabe/elkjs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=elkjs&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
