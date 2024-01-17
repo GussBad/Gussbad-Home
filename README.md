@@ -1,4 +1,4 @@
-<p align="center"><img src="src/resources/images/nickgabe.png" width="600"/></p>
+<p align="center"><img src="src/resources/images/Saturn.png" width="600"/></p>
 <p align="center"><a href="https://twitter.com/saturn_cyberSec"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
 <a href="https://www.linkedin.com/in/gustavo-claudino23/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <p align="center">👋 Heyyy! I'm Gustavo, a brazilian hacker and developer.</p>
